@@ -1,1 +1,3 @@
-<h1 align="center">Team 10</h1>
+<h2 align="center">:girl:Team 10:boy::computer::sparkles:</h2>
+
+Software department curriculum
