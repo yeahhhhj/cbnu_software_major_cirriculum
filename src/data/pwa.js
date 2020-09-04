@@ -65,7 +65,7 @@ export const pwaCollection = {
 			]
 		},
 		{
-			name: "전공 42학점(15) 이수",
+			name: "전공 42학점(15)이수",
 			skills: [
 				{
 					name: "컴퓨터시스템개론",
